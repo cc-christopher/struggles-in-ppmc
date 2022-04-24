@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1649919527 source:d:\kuliah\pemechaan msalahan\pram8\main.c
+	<stdio.h>
+
+1649919389 source:d:\kuliah\pemechaan msalahan\pram8\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

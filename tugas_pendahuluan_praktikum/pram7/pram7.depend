@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1649317889 source:d:\kuliah\pemechaan msalahan\pram7\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1649316789 d:\kuliah\pemechaan msalahan\pram7\lib.h
+	<stdio.h>
+	<stdlib.h>
+
+1649317782 source:d:\kuliah\pemechaan msalahan\pram7\lib.c
+	"lib.h"
+
